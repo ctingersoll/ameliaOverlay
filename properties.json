@@ -2,13 +2,13 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=chrisingersoll",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=chrisingersoll",
-  "parentUrl": "https://www.inspiresleep.com/",
+  "parentUrl": "https://www.amerihealthcaritaspa.com/",
   "actions": {
-    "nav_path-inspire": {
-      "url": "https://www.inspiresleep.com/path-to-inspire/"
+    "nav_enroll": {
+      "url": "https://www.amerihealthcaritaspa.com/member/eng/enroll/index.aspx"
     },
-    "nav_cost_eligibility": {
-      "url": "https://www.inspiresleep.com/cost-and-eligibility/"
+    "nav_findPhysician": {
+      "url": "https://www.amerihealthcaritaspa.com/member/eng/find-provider.aspx"
     },
     "nav_events": {
       "url": "https://www.inspiresleep.com/events/"
