@@ -5,13 +5,16 @@
   "parentUrl": "https://www.amerihealthcaritaspa.com/",
   "actions": {
     "nav_enroll": {
-      "url": "https://www.amerihealthcaritaspa.com/member/eng/enroll/index.aspx"
+      "url": "https://www.cuverd.com/sign-up"
     },
     "nav_findPhysician": {
       "url": "https://www.amerihealthcaritaspa.com/member/eng/find-provider.aspx"
     },
     "nav_events": {
       "url": "https://www.inspiresleep.com/events/"
+    },
+    "nav_cuverD_findMedication": {
+      "url": "https://www.cuverd.com/SearchMedication"
     }
   }
 }
