@@ -2,19 +2,16 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=chrisingersoll",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=chrisingersoll",
-  "parentUrl": "https://www.cuverd.com/",
+  "parentUrl": "https://www.amerihealthcaritaspa.com/",
   "actions": {
     "nav_enroll": {
-      "url": "https://www.cuverd.com/sign-up"
+      "url": "https://www.amerihealthcaritaspa.com/member/eng/enroll/index.aspx"
     },
     "nav_findPhysician": {
       "url": "https://www.amerihealthcaritaspa.com/member/eng/find-provider.aspx"
     },
     "nav_events": {
       "url": "https://www.inspiresleep.com/events/"
-    },
-    "nav_cuverD_findMedication": {
-      "url": "https://www.cuverd.com/SearchMedication"
     }
   }
 }
